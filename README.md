@@ -10,11 +10,11 @@
 
 ### 👋 ¡Hola! / Hello!
 
-Soy **Ingeniero en Sistemas Computacionales** egresado en **Diciembre 2024** de la **Unitec Campus Ecatepec** con los máximos honores académicos.
+Soy **Ingeniero en Sistemas Computacionales** egresado en **Diciembre 2025** de la **Unitec Campus Ecatepec** con los máximos honores académicos.
 
 Mi pasión es el mundo de los datos. Mi objetivo es iniciar mi carrera como **Ingeniero de Datos** para luego especializarme en **Arquitecturas en la Nube** y **Machine Learning**. Combino una sólida base en desarrollo de software (full-stack, aplicaciones móviles) con un enfoque profundo en datos, lo que me permite entender el ciclo de vida completo de las aplicaciones y cómo extraer valor de la información que generan. Me motiva construir pipelines de datos eficientes y confiables que permitan generar insights de valor.
 
-*I'm a **Computer Systems Engineer** graduated in **December 2024** from **Unitec Ecatepec** with top academic honors. My passion is the data world. My goal is to start my career as a **Data Engineer** and later specialize in **Cloud Architectures** and **Machine Learning**.* I combine a strong software development background (full-stack, mobile apps) with a deep focus on data, allowing me to understand the complete application lifecycle and how to extract value from the information they generate.
+*I'm a **Computer Systems Engineer** graduated in **December 2025** from **Unitec Ecatepec** with top academic honors. My passion is the data world. My goal is to start my career as a **Data Engineer** and later specialize in **Cloud Architectures** and **Machine Learning**.* I combine a strong software development background (full-stack, mobile apps) with a deep focus on data, allowing me to understand the complete application lifecycle and how to extract value from the information they generate.
 
 
 ---
