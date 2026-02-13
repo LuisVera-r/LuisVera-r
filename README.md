@@ -29,11 +29,12 @@ Mi pasión es el mundo de los datos. Mi objetivo es iniciar mi carrera como **In
 ### 📜 Certificaciones / Certifications
 
 #### Redes y Networking
-*   **[CCNA: Enterprise Networking, Security, and Automation](link_de_tu_credencial_si_es_público)** – Cisco
-*   **[CCNA: Switching, Routing and Wireless Essentials](link_de_tu_credencial_si_es_público)** – Cisco
+*   **[CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/earner/earned/badge/f220b77e-6de5-4afe-9775-a9207011a1a9)** – Cisco
+*   **[CCNA: Switching, Routing and Wireless Essentials](https://www.credly.com/earner/earned/badge/037085e1-52b9-4d35-9586-7ba9446d571c)** – Cisco
+*   **[CCNA: Introduction to Networks](https://www.credly.com/earner/earned/badge/c0067e55-f87d-42bb-baf7-a26bc9841581)** – Cisco
 
 #### Habilidades Blandas y Pensamiento Creativo
-*   **[Creative Thinking: Techniques and Tools for Success](link_de_tu_credencial_si_es_público)** – Imperial College London (Coursera)
+*   **[Creative Thinking: Techniques and Tools for Success](https://coursera.org/share/a5f30ebf9254e35d410e7a91be5510db)** – Imperial College London (Coursera)
 
 #### 🚀 En Progreso / In Progress
 *   **Microsoft Certified: Azure Fundamentals (AZ-900)** – Microsoft
@@ -42,60 +43,70 @@ Mi pasión es el mundo de los datos. Mi objetivo es iniciar mi carrera como **In
 
 ---
 
-### 🛠️ Habilidades Técnicas / Technical Skills
+### 🛠️ Stack Tecnológico / Tech Stack
 
-*   **Lenguajes:** Python, SQL
-*   **Bases de Datos:** MySQL, PostgreSQL
-*   **Análisis de Datos:** Pandas, NumPy
-*   **Visualización:** Power BI, Matplotlib, Seaborn
-*   **Redes & Infraestructura:** Conocimientos sólidos en routing, switching, seguridad de redes y automatización (gracias a mi CCNA). Esto me da una base sólida para entender el movimiento de datos y arquitecturas en la nube.
-*   **Control de Versiones:** Git, GitHub
-*   **Cloud:** Fundamentos de AWS y Azure (en aprendizaje activo para certificaciones).
+#### 📊 Data Engineering & Machine Learning
+| Categoría / Category | Tecnologías / Technologies |
+| :--- | :--- |
+| **Lenguajes / Languages** | Python, SQL |
+| **Análisis de Datos / Data Analysis** | Pandas, NumPy |
+| **Machine Learning** | Scikit-learn, TensorFlow, MediaPipe |
+| **Visualización / Visualization** | Matplotlib, Seaborn |
+| **APIs de Datos / Data APIs** | FastAPI |
+
+#### 💻 Desarrollo de Software (Base Full-Stack) / Software Development (Full-Stack Foundation)
+| Categoría / Category | Tecnologías / Technologies |
+| :--- | :--- |
+| **Lenguajes / Languages** | C++, Java, JavaScript, C# |
+| **Backend** | Node.js, Apache |
+| **Frontend** | React |
+| **Móvil / Mobile** | Android Studio |
+| **Bases de Datos / Databases** | MySQL, PostgreSQL, MongoDB |
+| **IDEs y Herramientas / IDEs & Tools** | Eclipse, Visual Studio, Spyder |
+
+#### 🌐 Redes e Infraestructura / Networking & Infrastructure
+| Categoría / Category | Tecnologías / Technologies |
+| :--- | :--- |
+| **Redes / Networking** | Routing, Switching, Seguridad de Redes, Automatización (CCNA) / Routing, Switching, Network Security, Automation (CCNA) |
+| **Control de Versiones / Version Control** | Git, GitHub |
 
 ---
 
 ### 💡 Habilidades Blandas / Soft Skills
 
-*   **Aprendizaje Continuo:** Constante actualización a través de certificaciones y cursos.
-*   **Pensamiento Analítico:** Capacidad para desglosar problemas complejos.
-*   **Resolución de Problemas:** Enfocado en encontrar soluciones eficientes.
+*   **Aprendizaje Continuo:** Autodidacta, siempre buscando la siguiente certificación o tecnología.
+    *   *Continuous Learning:* *Self-taught, always looking for the next certification or technology.*
+*   **Visión Integral:** Capacidad para entender tanto el desarrollo de aplicaciones como el ciclo de vida de los datos.
+    *   *Comprehensive Vision:* *Ability to understand both application development and the data lifecycle.*
+*   **Pensamiento Analítico:** Disciplina para desglosar problemas complejos y proponer soluciones basadas en datos.
+    *   *Analytical Thinking:* *Discipline to break down complex problems and propose data-driven solutions.*
 *   **Proactividad:** Iniciativa para aprender y aplicar nuevas tecnologías.
+    *   *Proactivity:* *Initiative to learn and apply new technologies.*
 *   **Trabajo en Equipo:** Colaboración efectiva para alcanzar objetivos comunes.
+    *   *Teamwork:* *Effective collaboration to achieve common goals.*
 
 ---
 
 ### 📂 Proyectos Destacados / Featured Projects
 
-*(Aquí tus proyectos son clave. Asegúrate de que los "pinned" en tu perfil sean estos)*
-
-#### 1. Análisis de Ventas y Dashboard Interactivo
-*   **Descripción:** Proyecto ETL personal. Extraje datos de un dataset público, los limpié y transformé con Python (Pandas) y creé un dashboard en Power BI para visualizar KPIs de ventas, rentabilidad por producto y análisis geográfico.
-*   **Tecnologías:** Python, Pandas, Power BI, Git.
-
-#### 2. Pipeline de Datos: API a Base de Datos
-*   **Descripción:** Construí un pipeline automatizado en Python que consulta una API REST, procesa los datos JSON y los carga en una base de datos PostgreSQL. Esto simula el trabajo de un Data Engineer en la ingesta de datos.
-*   **Tecnologías:** Python, PostgreSQL, APIs, SQL.
-
-#### 3. Análisis Exploratorio de Datos (EDA) con Python
-*   **Descripción:** Realicé un análisis exploratorio completo sobre un conjunto de datos de Kaggle (ej. precios de casas o de ventas). Incluye visualizaciones y conclusiones clave para entender el comportamiento de los datos.
-*   **Tecnologías:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks.
 
 ---
 
 ### 🎓 Educación / Education
 
-*   **Ingeniería en Sistemas Computacionales**
+*   **Ingeniería en Sistemas Computacionales / Computer Systems Engineering**
     *   **Universidad Tecnológica de México (Unitec), Campus Ecatepec**
-    *   *Egresado: Diciembre 2024*
-    *   **Promedio General:** **9.73 / 10.0** (Mejor promedio de la carrera)
-    *   **Titulación:** Resultado Sobresaliente en el EGEL CENEVAL
+    *   *Egresado / Graduated: Diciembre / December 2025*
+    *   **Promedio General / Overall GPA:** **9.73 / 10.0** (Mejor promedio de la generación / Best GPA of my generation)
+    *   **Titulación / Degree Certification:** Resultado Sobresaliente en el EGEL CENEVAL / *Outstanding Result on the EGEL CENEVAL exam*
 
 ---
 
 ### 🌎 Idiomas / Languages
 
-*   **Español:** Nativo
-*   **Inglés:** Nivel Intermedio (B1). Actualmente estudiando en **Berlitz** para alcanzar fluidez profesional (B2). Capaz de leer documentación técnica y mantener conversaciones técnicas básicas.
+*   **Español:** Nativo / Native
+*   **Inglés / English:** Nivel Intermedio (B1). Estudiando actualmente en **Berlitz** para alcanzar B2. Capaz de leer documentación técnica y mantener conversaciones técnicas básicas.
+    *   *Intermediate Level (B1). Currently studying at **Berlitz** to reach B2. Able to read technical documentation and hold basic technical conversations.*
 
 ---
 
@@ -112,8 +123,8 @@ Mi pasión es el mundo de los datos. Mi objetivo es iniciar mi carrera como **In
 
 ¡Estoy abierto a nuevas oportunidades, colaboraciones y conexiones!
 
-*   **LinkedIn:** [linkedin.com/in/luisalberto-vera-tirado](URL_DE_TU_LINKEDIN)
-*   **Correo / Email:** [tu.correo@email.com](mailto:tu.correo@email.com)
+*   **LinkedIn:** [linkedin.com/in/luisalberto-vera-tirado](https://www.linkedin.com/in/luis-vera-3a916a394/)
+*   **Correo / Email:** [tu.correo@email.com](mailto:mailto:luisalbertoverat7@gmail.com)
 
 ¡Gracias por visitar mi perfil! / *Thanks for visiting my profile!*
 
