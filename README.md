@@ -124,7 +124,7 @@ Mi pasión es el mundo de los datos. Mi objetivo es iniciar mi carrera como **In
 ¡Estoy abierto a nuevas oportunidades, colaboraciones y conexiones!
 
 *   **LinkedIn:** [linkedin.com/in/luisalberto-vera-tirado](https://www.linkedin.com/in/luis-vera-3a916a394/)
-*   **Correo / Email:** [tu.correo@email.com](mailto:mailto:luisalbertoverat7@gmail.com)
+*   **Correo / Email:** [tu.correo@email.com](mailto:luisalbertoverat7@gmail.com)
 
 ¡Gracias por visitar mi perfil! / *Thanks for visiting my profile!*
 
