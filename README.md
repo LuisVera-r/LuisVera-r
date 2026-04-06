@@ -14,7 +14,7 @@
 
 ## Sobre mí
 
-Ingeniero en Sistemas Computacionales egresado de UNITEC Ecatepec (Diciembre 2025) con el **mejor promedio de generación (9.73/10)** y **Desempeño Sobresaliente en el EGEL ISOFT Plus — CENEVAL (1170/1300)**.
+Ingeniero en Sistemas Computacionales egresado de UNITEC Ecatepec (Diciembre 2025).
 
 Construyo pipelines ETL, APIs de inferencia y la infraestructura que hace que los datos y los modelos funcionen en producción. Me muevo en la intersección de **Data Engineering, ML Engineering y Cloud/SRE** — no solo entreno modelos, los despliego y los mantengo.
 
