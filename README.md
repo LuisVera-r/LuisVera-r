@@ -70,28 +70,6 @@ Aplico principios **SOLID**, patrones **Gang of Four** y análisis de complejida
 
 ---
 
-###  Geist — Sistema de Inventarios con IA
-> Gestión de inventarios con motor de predicción ML para optimización de stock y demanda.
-
-- **90% de efectividad** en identificación de productos de alta demanda
-- **85% de reducción** en errores de captura mediante validaciones automatizadas
-- Arquitectura moderna: API REST con FastAPI + frontend React + MongoDB
-
-`Python` `FastAPI` `Scikit-learn` `Pandas` `React` `MongoDB` `JWT` `Vite`
-
----
-
-###  Finex — Asistente Financiero con IA
-> Plataforma web que automatiza la clasificación de transacciones financieras mediante IA.
-
-- **92% de precisión** en categorización automática de gastos
-- **70% de reducción** en tiempo de registro manual del usuario
-- 🏆 **1er Lugar — Exposición de Innovación Wadhwani Foundation**
-
-`PHP` `Python` `MySQL` `JavaScript` `OpenAI API`
-
----
-
 ## 🏆 Logros Académicos
 
 | Logro | Detalle |
@@ -99,24 +77,5 @@ Aplico principios **SOLID**, patrones **Gang of Four** y análisis de complejida
 | 🥇 Mejor promedio de generación | 9.73 / 10.0 — Generación 2026-1, UNITEC Ecatepec |
 | 📋 EGEL ISOFT Plus — CENEVAL | Desempeño Sobresaliente · 1170 / 1300 |
 | 🔷 Cisco CCNA | Introduction to Networks · Switching & Routing · Enterprise Security & Automation |
-| 🏆 Wadhwani Foundation | 1er Lugar — Exposición de Innovación |
 
----
 
-## 🎯 Próximos pasos
-
-```
-[ ] AWS Certified Cloud Practitioner
-[ ] Microsoft Azure Fundamentals AZ-900
-[ ] Apache Airflow — orquestación de pipelines
-[ ] MLflow — tracking y model registry
-[ ] Profundizar en Kubernetes
-```
-
----
-
-## 📫 Contacto
-
-¿Tienes un proyecto de datos, una oportunidad o simplemente quieres conectar?
-
-**[luisalbertoverat7@gmail.com](mailto:luisalbertoverat7@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/luis-vera-3a916a394/)**
