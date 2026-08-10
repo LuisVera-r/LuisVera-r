@@ -2,7 +2,7 @@
 
 # Luis Alberto Vera Tirado
 
-**Software Engineer | Backend & Data Engineering 
+**Software Engineer | Backend & Data Engineering** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-vera-3a916a394/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisalbertoverat7@gmail.com)
