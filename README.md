@@ -76,6 +76,8 @@ Me gradué con un promedio de 9,73/10 el mejor de mi generacióny obtuve una cal
 
 ## Certificaciones
 
+| Nombre | Detalle |
+|---|---|
 | 🔷 Cisco CCNA | Introduction to Networks · Switching & Routing · Enterprise Security & Automation |
 
 
